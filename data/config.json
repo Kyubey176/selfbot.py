@@ -2,3 +2,4 @@
     "TOKEN": "your_token_here", 
     "PREFIX": "s."
 }
+bot.login(process.env.token);
